@@ -31,7 +31,7 @@ Nice to haves (**frontend** position)
 
 Nice to haves (**backend** position)
 * Completed an operating systems course or distributed systems course.
-* Experience with Raspberry Pi development.
+* Experience with embedded linux development.
 * Experience with Software Defined Radios or ADS-B.
 * Experience with satellite links (iridium or similar).
 * Experience with remote procedure calls (GRPC or similar).
@@ -39,7 +39,7 @@ Nice to haves (**backend** position)
 
 Contact: jobs@tridentsensing.com, with a copy of your resume and portfolio/website (optional) to apply. No cover letter is needed, but if you would like you can highlight some of your strengths that you think are applicable to the project in the email.
 
-Recommended deadline: 6/14/2022, 6/07/2022 preferred.
+Plase apply by: 6/14/2022.
 
 ## Software Development Internship Summer/Fall 2022
 This position would be focused on collaborating with the engineering team to develop core capabilities, and independently developing integration testing methods for the system. The integrated testing would consist of interfacing with aircraft simulation programs (such as X-Plane or MFS), and writing data translators that would accept simulated aircraft parameters and output data messages over RS232 or similar to feed the system under test. This team member would also work with the mechanical engineering team to design a simulator station for more effective testing of avionics.
@@ -57,7 +57,7 @@ Nice to haves:
 
 Contact: jobs@tridentsensing.com, with a copy of your resume and portfolio/website (optional) to apply. No cover letter is needed, but if you would like you can highlight some of your strengths that you think are applicable to the project in the email.
 
-Recommended deadline: 6/14/2022, 6/07/2022 preferred.
+Plase apply by: 6/14/2022.
 
 ## Mechanical Engineering Internship Summer/Fall 2022
 This position would be focused on two major components. The first would consist of modifying an existing firemapping sensor design to fit into a new aircraft platform. This would involve surveying the new platform, modifying Solidworks models to fit the new platform, manufacturing the new sensor using 3D printed parts, and verifying the suitability of the new design. The second would consist of designing and manufacturing a flight simulator platform, most likely out of t-slot, that would mount flight controls, monitors, and prototype avionics.
@@ -71,8 +71,8 @@ Requirements:
 Nice to haves:
 * Experience with the prusa platform and slicer.
 * Experience with t-slot, or other modular rail systems.
-* Aircraft knowledge, such as AMP experience.
+* Experience working around aircraft.
 
 Contact: jobs@tridentsensing.com, with a copy of your resume and portfolio/website (optional) to apply. No cover letter is needed, but if you would like you can highlight some of your strengths that you think are applicable to the project in the email.
 
-Recommended deadline: 6/14/2022, 6/07/2022 preferred.
+Plase apply by: 6/14/2022.
